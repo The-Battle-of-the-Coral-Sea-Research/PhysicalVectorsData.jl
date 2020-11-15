@@ -1,7 +1,8 @@
 name = "PhysicalVectorsData"
 uuid = "a726fbc3-c738-4ce7-b537-27edbf17c83f"
 authors = ["yiyuezhuo <yiyuezhuo@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Shapefile = "8e980c4a-a4fe-5da2-b3a7-4b4b0353a2f4"

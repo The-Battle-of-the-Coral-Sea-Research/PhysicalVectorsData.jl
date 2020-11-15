@@ -1,6 +1,9 @@
 module PhysicalVectorsData
 
 using Shapefile
+using Pkg.Artifacts
+
+export load_shapefile, filter_shape
 
 const artifacts_toml = abspath(joinpath(@__DIR__, "..", "Artifacts.toml"))
 

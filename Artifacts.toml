@@ -1,0 +1,7 @@
+[sp50]
+git-tree-sha1 = "10e1b13eb31fcad2cb8144dbe42e637189e87bdc"
+lazy = true
+
+    [[sp50.download]]
+    sha256 = "20EAED5EC2D6F9E9D26ED191AC64275C917374FAB198B91E51093EB1F44778C2"
+    url = "https://github.com/yiyuezhuo/PhysicalVectorsData.jl/releases/download/0.1.0/shape_data.tar.gz"
