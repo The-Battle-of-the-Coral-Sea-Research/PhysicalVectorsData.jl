@@ -1,7 +1,7 @@
 name = "PhysicalVectorsData"
 uuid = "a726fbc3-c738-4ce7-b537-27edbf17c83f"
 authors = ["yiyuezhuo <yiyuezhuo@gmail.com>"]
-version = "0.1.1"
+version = "0.1.2"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
